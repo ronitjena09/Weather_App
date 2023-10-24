@@ -18,7 +18,7 @@ To use the Weather_App, follow these steps:
 1. Clone or download this repository to your local machine.
 
 ```
-git clone https://github.com/your-username/Weather_App.git
+git clone https://github.com/ronitjena09/Weather_App.git
 ```
 
 2. Get an API key from [OpenWeatherMap](https://openweathermap.org/api) to access weather data.
