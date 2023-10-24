@@ -11,6 +11,7 @@ Weather_App is a simple web-based weather application that allows users to check
 - Displays location, temperature, and weather description.
 - Responsive design for various screen sizes.
 
+
 ## Usage
 
 To use the Weather_App, follow these steps:
@@ -33,16 +34,10 @@ git clone https://github.com/ronitjena09/Weather_App.git
 
 - `index.html`: The main HTML file for the application.
 - `style.css`: The CSS file for styling the application.
-- `weather_app_screenshot.png`: A screenshot of the Weather_App.
 
 ## Dependencies
 
 - [OpenWeatherMap API](https://openweathermap.org/api) - Used to fetch weather data.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
